@@ -1,12 +1,15 @@
 # Angela Azhieska 213217
 ## cfg graf 
 ![cfg labs2](https://github.com/angelaa2132/SI_2023_lab2_213217/blob/master/graf.jpg)
+
 Со примена на формулата Е-N+2, каде Е се бројот на ребра (35) и N се бројот на јазли (26). Со замена во формулата, добив дека цикломатската комплексност е 11.
 
 ## Every branch
 
-За тест (user=Angela,ksghfam!ght,azhieska@example.com и непразна листа)
+За тест (user=Angela,afdsfmm!akf,azhieska@example.com и непразна листа)
+
 Следните гранки ќе бидат изминати:
+
 pocetok,1-3
 
 3-5*
@@ -51,7 +54,8 @@ pocetok,1-3
 
 20-kraj
 
-За тест (username=null, 5623 845268, azhieska@example.com и непразна листа)
+За тест (username=null, 9573 849378, azhieska@example.com и непразна листа)
+
 Следните гранки ќе видат изминати:
 
 pocetok,1-3
@@ -96,14 +100,14 @@ pocetok,1-3
 
 21-kraj
 
-За тест (Angela, 9573 849378, null и празна листа)
+За тест (Angela, 9573849378, null и празна листа)
 
 Следните гранки ќе видат изминати:
 pocetok,1 - 2
 
 2-kraj
 
-За тест (Angela, 9663849523, azhieska@example.com и непразна листа)
+За тест (Angela, 957 3849378, azhieska@gmail.com и непразна листа)
 
 Следните гранки ќе видат изминати:
 
@@ -135,7 +139,7 @@ pocetok,1 - 2
 
 pocetok,1-3
 
-За тест (Angela, 564, azhieska@example.com и непразна листа)
+За тест (Angela, 123, azhieska@gmail.com и непразна листа)
 
 Следните гранки ќе видат изминати:
 
@@ -170,6 +174,7 @@ pocetok,1-3
 3-5*
 
 pocetok,1-3
+
 Со овие тестови сите гранки ќе бидат изминати.
 
 ## Multiple conditions
